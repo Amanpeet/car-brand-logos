@@ -1,4 +1,5 @@
-# car-brand-logos
+# Car Brand Logos
+
 Major Car Brand Logos normalized to same size (800 x 600 px). 
 Transparent Background with White or Light Text.
 Feel free to download and use in your projects. 
